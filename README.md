@@ -21,8 +21,6 @@ Here are the key features your project might include (customize as needed):
 - **Server & Language:** PHP  
 - **Database:** MySQL  
 - **Frontend:** HTML5, CSS3, JavaScript  
-- **Templating / Layouts:** (if you used something like Blade / Twig or plain PHP templating)  
-- **Other Libraries / Helpers:** (if you used any)  
 
 ---
 
